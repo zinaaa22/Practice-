@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyPmXHigMypPVrUfhrVLDh1H",
+      "authorship_tag": "ABX9TyOt41OCoefQLynVZXmBPNLo",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -30,9 +30,13 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "beFN8w3pOCZi"
+        "id": "k3zKfOpMP47I"
       },
       "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
       "source": [
         "# 🌺 Reading Lesson: \"The lost compass\"\n",
         "\n",
@@ -67,16 +71,10 @@
         "- Write a few sentences on how you could use kindness in that situation as well.\n",
         "\n",
         "🌿 _**Note:** Don't forget to submit your reflection by next Wednesday!_"
-      ]
-    },
-    {
-      "cell_type": "code",
-      "source": [],
+      ],
       "metadata": {
-        "id": "q09axjJAODLt"
-      },
-      "execution_count": null,
-      "outputs": []
+        "id": "u5WJ8DYvQA5t"
+      }
     }
   ]
 }
